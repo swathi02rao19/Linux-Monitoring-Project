@@ -1,0 +1,14 @@
+sudo apt update
+#Usage: Updates the Ubuntu package list and system repositories.
+
+sudo apt install htop -y
+#Usage: Installs the htop monitoring tool for real-time CPU, memory, and process monitoring.
+
+htop
+#Usage: Opens an interactive Linux system monitoring dashboard.
+
+sudo apt install glances -y
+#Usage: Installs the Glances advanced monitoring tool.
+
+glances
+#Usage: Displays real-time system statistics including CPU, memory, disk, network, and processes.
